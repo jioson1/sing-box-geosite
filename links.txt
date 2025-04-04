@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/jioson1/gvze/refs/heads/main/emby/emby1.json
+https://raw.githubusercontent.com/jioson1/sing-box-geosite/refs/heads/main/rule/emby.json
